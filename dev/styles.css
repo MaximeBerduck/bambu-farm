@@ -1,0 +1,26 @@
+:root {
+    --bambu-default-columns: 6;
+}
+
+.status {
+    display: none !important;
+}
+
+.filaments {
+    display: none !important;
+}
+
+.dashboard-printer {
+    border: 1px solid grey;
+}
+
+.image {
+    min-height: 0px !important;
+    background-color: transparent !important;
+    /* display: none !important; */
+}
+
+/* orange : #b35900 
+gris : #008000
+rouge : #990000
+*/
